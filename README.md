@@ -116,7 +116,7 @@ The model is optimized using **data augmentation, focal loss, class balancing, a
 ## 📈 Sample Output
 
 * Confusion Matrix
- <img width="341" height="290" alt="confusion matrix" src="https://github.com/user-attachments/assets/fa06bbc7-cab8-433a-af54-afaef1b52e00" />
+<img width="341" height="290" alt="confusion matrix" src="https://github.com/user-attachments/assets/fa06bbc7-cab8-433a-af54-afaef1b52e00" />
 * Accuracy & Loss Graphs
  <img width="690" height="275" alt="accuracy graphs" src="https://github.com/user-attachments/assets/c49053e7-0ba5-4310-90a2-a0d5007cde77" />
 * Model Performance Summary
