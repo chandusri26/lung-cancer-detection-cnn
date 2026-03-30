@@ -8,7 +8,7 @@ This project presents a **deep learning-based approach for lung cancer detection
 * Benign cases
 * Normal cases
 
-The model is optimized using **data augmentation, focal loss, class balancing, and fine-tuning techniques** to improve accuracy and handle class imbalance effectively.
+The model is optimized using **data augmentation, focal loss, class balancing, and fine-tuning techniques** to improve accuracy and handle class imbalance effectively. Achieved ~94% test accuracy using ResNet50 with fine-tuning.
 
 ---
 
