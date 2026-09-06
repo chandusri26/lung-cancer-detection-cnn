@@ -141,12 +141,6 @@ Garika chandu sri
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and support!
